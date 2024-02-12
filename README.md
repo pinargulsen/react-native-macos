@@ -1,5 +1,4 @@
 # Deprecation #
-
 The project is no longer maintained.
 
 There is an Microsoft version: [https://microsoft.github.io/react-native-windows/](https://microsoft.github.io/react-native-windows/)
